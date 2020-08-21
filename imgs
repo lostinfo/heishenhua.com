@@ -102,10 +102,6 @@ fetch("http://heishenhua.com/img/qrcode/img_qrcode_bm_wechat_172.png", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_bg_title.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -120,148 +116,134 @@ fetch("http://heishenhua.com/img/news/btn_esc.png", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_bg.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_logo_a.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_logo_b.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/MobileWeb/img_MbWeb_video.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_play.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_df.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_1.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_b.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_b.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_4.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_1.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_ck_l.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_ck_r.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_df_l.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_df_r.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper_mobile5.jpg", {
+  "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/btn_play.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/btn_df.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_1.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_b.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_b.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/img_bg_introduce_4.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/tab_ck_l.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/tab_ck_r.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/tab_df_l.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/b1/tab_df_r.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/img/Wallpaper/Wallpaper_mobile5.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
@@ -302,30 +284,22 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper_mobile10.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_bg_qa.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/bar_qa.png", {
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/img_bg_recruit.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
@@ -380,21 +354,181 @@ fetch("http://heishenhua.com/img/company/img_7.png", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/btn_recruit_df.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_df.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_logo_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_logo_b.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/MobileWeb/img_MbWeb_video.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_play.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_df.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_1.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_b.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_b.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_4.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_1.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_ck_l.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_ck_r.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_df_l.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_df_r.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_play.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_qa.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/bar_qa.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_recruit.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_recruit_df.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/btn_df.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper5.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -402,21 +536,13 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper5.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/btn_art_turnpage.png", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
-  "referrerPolicy": "no-referrer-when-downgrade",
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
   "body": null,
   "method": "GET",
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper6.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -424,10 +550,6 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper6.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper7.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -435,10 +557,6 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper7.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper8.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -446,10 +564,6 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper8.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper9.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -457,23 +571,6 @@ fetch("http://heishenhua.com/img/Wallpaper/Wallpaper9.jpg", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/Wallpaper/Wallpaper10.jpg", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
-  },
-  "referrer": "http://heishenhua.com/",
-  "referrerPolicy": "no-referrer-when-downgrade",
-  "body": null,
-  "method": "GET",
-  "mode": "cors"
-}); ;
-fetch("http://heishenhua.com/favicon.ico", {
-  "headers": {
-    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
-    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "cache-control": "no-cache",
-    "pragma": "no-cache"
-  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -488,6 +585,19 @@ fetch("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAGcEl
   "mode": "cors"
 }); ;
 fetch("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAYAAADUryzEAAAABHNCSVQICAgIfAhkiAAAAIhJREFUOI2Vk8sRgCAMBVcrSEmWaAdagh1IB1qKHeAFZjgEeMmJT3YzQwLABTyAoYcBd+FIQA5IrOTmwmLAK0pa+G1zFUkXViX1zoVnklOBe5IjAnuSIbwOJLmzlqq3r6222IWNwJyM+jyVTIfEkYRgT3LUw/qZ1D63kn0pG4AN+ARBlaRAfj9+mPlMwSu4q+0AAAAASUVORK5CYII=", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/favicon.ico", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "cache-control": "no-cache",
+    "pragma": "no-cache"
+  },
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
@@ -509,6 +619,1138 @@ fetch("http://heishenhua.com/img/b1/nav_ck.png", {
   "mode": "cors"
 }); ;
 fetch("http://heishenhua.com/img/b1/nav_hover.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_2_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/img_bg_introduce_3_a.png", {
+  "referrer": "",
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_hover_l.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/b1/tab_hover_r.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/css/app.27082cfe.css",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot1.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_1.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_2.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_3.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_4.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_5.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_6.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_7.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_8.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_9.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_10.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_11.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_12.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper1.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_1.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_2.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_3.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_4.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_5.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_6.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_7.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_8.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_9.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_10.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_guishiwei.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_guishiwei.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_heifenshan1.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_heifenshan2.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_heifenshan3.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_heifenshan4.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_huodaolang.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_landscape1.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_landscape2.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_landscape3.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_landscape6.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_langren.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_lingxudaozhang.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_tudi.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Concept/img_art_concept_wukong.png", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_heifenshan1.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_heifenshan2.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_heifenshan2.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_heifenshan3.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_heifenshan4.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_huodaolang.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_landscape1.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_landscape2.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_landscape3.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_landscape6.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_langren.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_lingxudaozhang.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_tudi.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Concept/Concept_wukong.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper1.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "if-range": "\"EBF072D94700C4E37079DABBB79921F4\"",
+    "range": "bytes=944174-944174"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_1.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_2.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_3.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_4.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_5.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_6.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_7.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_8.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_9.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/Wallpaper/img_art_wallpaper_10.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper7.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper9.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper10.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper9.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper8.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper7.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper4.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper3.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper2.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper1.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot1.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_1.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_2.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_3.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_4.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_5.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_6.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_7.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_8.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_9.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_10.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_11.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/thumbnail/screenshot/img_art_screenshot_12.png", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot2.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot3.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot4.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot5.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot6.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot7.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot8.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot9.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot10.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot11.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/screenshot/screenshot12.jpg", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8"
+  },
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper7.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper8.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper9.jpg", {
+  "referrer": "http://heishenhua.com/",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("http://heishenhua.com/img/Wallpaper/Wallpaper10.jpg", {
   "referrer": "http://heishenhua.com/",
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
